@@ -1,2 +1,2 @@
 # myApp
-this i ssampl
+This Is Sample
