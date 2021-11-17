@@ -1,2 +1,0 @@
-# myApp
-This Is Sample
