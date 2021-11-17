@@ -1,2 +1,2 @@
-# MY PROJEXT
+# MY PROJECT
 This Is Practice
